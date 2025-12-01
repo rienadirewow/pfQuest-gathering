@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffQuest |cffcccccc[Shapes]
+## Author: riencoertjens
+## Notes: Skill-colored shapes for mining and herbalism nodes
+## Version: 1.0
+## Dependencies: pfQuest
+
+pfQuest-gathering.lua
